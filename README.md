@@ -1,7 +1,6 @@
 # PS5 MacPork v1.0
 
 A native macOS GUI for backporting PS5 game dumps to lower firmware versions.
-No CrossOver, no Windows, no command line required.
 
 ---
 

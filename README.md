@@ -111,5 +111,3 @@ PS5 MacPork is free and open source. If it helped you, consider buying me a coff
 
 - **BackPork Kitchen** — workflow inspiration
   https://github.com/rajeshca911/PS5-BACKPORK-KITCHEN
-
-- **Created with AI assistance** — built with the help of Claude (Anthropic)
